@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Eddie  ## Backend Software Engineer  Focused on PHP, Laravel, Java, and relational databases.  ### Technical Skills - Backend: PHP, Laravel, Java - Database: MySQL, SQL Server - Frontend: HTML, CSS, JavaScript, Bootstrap - Tools: Git, GitHub - Concepts: MVC, CRUD, RESTful API  ### Projects Explore my repositories for backend development and web application projects.  ### Career Focus Backend Development | Web Application Development | System Development
 
 <!--
 **youcan689/youcan689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
